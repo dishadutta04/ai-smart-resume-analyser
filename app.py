@@ -753,7 +753,7 @@ with tab3:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; padding: 2rem; opacity: 0.8;">
-    <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">Made with ❤️ using Streamlit & AI</p>
-    <p style="font-size: 0.9rem; color: #667eea;">Made By Disha | 🔒 Your data is never stored • 🚀 Powered by Advanced AI • ⚡ Instant Results</p>
+    <p style="font-size: 1.1rem; margin-bottom: 0.5rem;">Made by Disha | Btech IT | Banasthali Vidhyapeeth </p>
+    <p style="font-size: 0.9rem; color: #667eea;">Streamlit app | 🔒 Your data is never stored • 🚀 Powered by Advanced AI • ⚡ Instant Results</p>
 </div>
 """, unsafe_allow_html=True)
