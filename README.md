@@ -48,4 +48,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Crafted with ❤️ and AI** • [Live Demo](https://your-app.streamlit.app) • [Report Issue](https://github.com/yourusername/ai-resume-analyzer/issues)
+**Crafted with ❤️by DishaI** • [Live Demo](https://your-app.streamlit.app) • [Report Issue](https://github.com/yourusername/ai-resume-analyzer/issues)
